@@ -1,0 +1,14 @@
+{
+ "name": "nika-demo",
+ "version": "0.1.0",
+ "nivel": "L0",
+ "permisos": {
+  "red": false,
+  "archivos": false,
+  "procesos": false
+ },
+ "herramientas": [
+  "suma",
+  "hora"
+ ]
+}
